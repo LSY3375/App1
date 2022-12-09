@@ -21,3 +21,5 @@
 ![5](/img/5.png)
 
 ## 2. 영상
+
+<img src=https://github.com/LSY3375/App1/blob/master/img/app1%20(1).gif>
