@@ -1,27 +1,23 @@
-========================================================================
-    App1 Project Overview
-========================================================================
+# 1. 마우스를 누르고 이동하면 펜이 되도록 Winui3+(C++WinRT)로 다음을 코딩하시오.
 
-This project demonstrates how to get started writing WinUI3 apps directly
-with standard C++, using the Windows App SDK and C++/WinRT packages and
-XAML compiler support to generate implementation headers from interface
-(IDL) files. These headers can then be used to implement the local
-Windows Runtime classes referenced in the app's XAML pages.
+## 1.1 윈도우 제목
 
-Steps:
-1. Create an interface (IDL) file to define any local Windows Runtime
-    classes referenced in the app's XAML pages.
-2. Build the project once to generate implementation templates under
-    the "Generated Files" folder, as well as skeleton class definitions
-    under "Generated Files\sources".
-3. Use the skeleton class definitions for reference to implement your
-    Windows Runtime classes.
+![1](/img/1.png)
 
-========================================================================
-Learn more about Windows App SDK here:
-https://docs.microsoft.com/windows/apps/windows-app-sdk/
-Learn more about WinUI3 here:
-https://docs.microsoft.com/windows/apps/winui/winui3/
-Learn more about C++/WinRT here:
-http://aka.ms/cppwinrt/
-========================================================================
+## 1.2 스크롤바
+
+![2](/img/2.png)
+
+## 1.3 파일 저장, 불러오기, 새파일
+
+![3](/img/3.png)
+
+## 1.6 ColorPicker
+
+![4](/img/4.png)
+
+## 1.8 Exit 메뉴
+
+![5](/img/5.png)
+
+## 2. 영상
